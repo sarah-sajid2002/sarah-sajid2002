@@ -1,3 +1,4 @@
+![logo](https://github.com/sarah-sajid2002/sarah-sajid2002/blob/main/Black%20Modern%20Gaming%20Banner%20Landscape.png)
 <h1 align="center">Hi 👋, I'm Sarah Sajid</h1>
 <h3 align="center">A front end developer and a computer science student</h3>
 
