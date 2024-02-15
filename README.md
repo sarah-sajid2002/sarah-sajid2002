@@ -1,11 +1,9 @@
-[![MasterHead](https://ibb.co/pzSz6G6)
+![MasterHead](https://i.ibb.co/3NnN5G5/Blue-white-minimal-linkedin-profile-cover-image.png)
 <h1 align="center">Hi 👋, I'm Sarah Sajid</h1>
 <h3 align="center">A passionate mern stack developer and computer science student!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarah-sajid2002&label=Profile%20views&color=0e75b6&style=flat" alt="sarah-sajid2002" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarah-sajid2002" alt="sarah-sajid2002" /></a> </p>
 
 - 🔭 I’m currently working on [projects on mern and firebase](https://voluble-gumdrop-6a2b46.netlify.app/)
 
@@ -13,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [tranquil-lily-65c41f.netlify.app/](tranquil-lily-65c41f.netlify.app/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, MongoDB, Node**
+- 💬 Ask me about **HTML,CSS, JavaScript,React,MongoDb,Node**
 
 - 📫 How to reach me **sarahsajid19@gmail.com**
 
